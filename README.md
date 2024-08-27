@@ -52,5 +52,8 @@
 
 ### 🍀 Contact me 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:winsomjk@gmail.com])(mailto:winsomjk@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mjello_k/)]
+<a href="mailto:winsomjk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:winsomjk@gmail.com"/></a>
+<a href="https://www.instagram.com/mjello_k"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mjello_k"/></a>
+
+
+
